@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": "nanoid()",
+      "text": "this is my very first note!",
+      "date": "24/07/2022"
+    },
+    {
+      "id": "nanoid()",
+      "text": "Note 2; Let's get into action",
+      "date": "11/08/2022"
+    },
+    {
+      "id": "nanoid()",
+      "text": "Note 3; kapenguria 7 in Kitale",
+      "date": "29/08/2022"
+    },
+    {
+      "id": "nanoid()",
+      "text": "this is my fourth note",
+      "date": "04/11/2022"
+    }
+  ]
+}
