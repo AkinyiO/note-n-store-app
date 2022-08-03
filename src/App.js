@@ -10,7 +10,7 @@ import Header from "./components/Header";
     const [notes, setNotes] = useState([
       {
         id: nanoid(),
-        text: 'This is my first note!',
+        text: 'Here is my first note!',
         date: '15/04/2021',
       },
       {
@@ -20,12 +20,12 @@ import Header from "./components/Header";
       },
       {
         id: nanoid(),
-        text: 'This is my third note!',
+        text: 'This is a third note!',
         date: '28/04/2021',
       },
       {
         id: nanoid(),
-        text: 'This is my newest note!',
+        text: 'This is my newest note..',
         date: '30/04/2021',
       },
     ]);
